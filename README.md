@@ -19,6 +19,7 @@
       "react",
       "vue",
       "vuex",
+      "pinia",
       "style": ["scss", "tailwind", "emotion"]   
     ],
     "backend": ["nodejs", "nestjs"],
