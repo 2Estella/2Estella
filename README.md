@@ -7,9 +7,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?&logo=Node.js&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white)
 ![Mysql](https://img.shields.io/badge/-MySQL-4479A1?&logo=MySQL&logoColor=white)
-<a href="https://hhpluscertificateofcompletion.oopy.io/">
-  <img src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_red.svg" />
-</a>
 
 ```JSON
 {
@@ -23,6 +20,7 @@
       "vue",
       "vuex",
       "pinia",
+      "test": ["vitest"],
       "style": ["scss", "tailwind", "emotion"]   
     ],
     "backend": ["nodejs", "nestjs"],
